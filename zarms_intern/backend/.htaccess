@@ -1,0 +1,35 @@
+# Backend .htaccess for Hostinger
+
+# Don't expose .env file
+<FilesMatch "^\.env">
+    Require all denied
+</FilesMatch>
+
+# PHP Settings for Hostinger
+<IfModule mod_php8.c>
+    php_value display_errors Off
+    php_value log_errors On
+    php_value error_log /tmp/php_errors.log
+    php_value upload_max_filesize 5M
+    php_value post_max_size 5M
+    php_value memory_limit 256M
+    php_value max_execution_time 30
+</IfModule>
+
+# Note:
+# CORS headers are handled dynamically in backend/config/cors.php.
+# Do not hardcode Access-Control-* headers here, or localhost/Vite requests can fail.
+
+# Enable CORS
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Handle OPTIONS preflight
+    RewriteCond %{REQUEST_METHOD} OPTIONS
+    RewriteRule ^(.*)$ index.php?request=$1 [QSA,L]
+
+    # Route all other backend requests through index.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php?request=$1 [QSA,L]
+</IfModule>

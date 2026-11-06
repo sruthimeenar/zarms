@@ -1,0 +1,876 @@
+Create a complete, premium, modern, highly responsive business website for “ZARMS Tec” on the domain zarmstech.com.
+
+ZARMS Tec is a dual-service company that provides:
+1. Construction Services
+2. Software Solutions
+
+The website must feel modern, credible, elegant, conversion-focused, and visually polished. It should present ZARMS Tec as a trustworthy company that combines physical project execution with smart digital capabilities. The design must strongly focus on user experience, clarity, mobile responsiveness, professional branding, and smooth interactions.
+
+Do not use generic lorem ipsum. Use the actual business details and real content structure below. Write polished, professional website copy based on the business profile. The website must feel like a premium company site built for a real client.
+
+BUSINESS DETAILS
+
+Official Company Name:
+ZARMS Tec
+
+Domain:
+zarmstech.com
+
+Registered Address:
+30/1, Medawalkkam 2nd Street, Kilpauk, Chennai-10
+
+Construction Services Contact:
+Phone: 9840344369
+Email: narbhavi555@gmail.com
+
+Software Solutions Contact:
+Phone: 9994123797
+Email: rajesh.arms916@gmail.com
+
+WhatsApp Number for quick enquiries:
+9994123797
+
+CORE WEBSITE GOAL
+
+Build a modern corporate website that:
+- clearly explains both service verticals
+- helps users quickly understand what the company does
+- encourages enquiries through contact forms, WhatsApp, call buttons, and email
+- showcases services, project highlights, galleries, and portfolio content
+- builds trust through structured content, strong design, and smooth UX
+- works beautifully across desktop, tablet, and mobile
+
+STYLE DIRECTION
+
+The website should visually combine:
+- the strength and reliability of construction
+- the intelligence and innovation of software/technology
+
+Use a premium and modern design language. The interface should feel clean, spacious, and refined. Avoid clutter. Use bold typography, strong section spacing, elegant card layouts, subtle gradients, soft shadows, layered backgrounds, image overlays, and modern visual hierarchy.
+
+Suggested visual identity:
+- Base tone: deep navy / charcoal / slate
+- Accent color: electric blue / teal for technology
+- Secondary accent: warm amber / construction gold / copper for construction energy
+- Backgrounds: mix of white, light gray, dark hero sections, and gradient overlays
+- Typography: bold modern headings, clean readable body font
+- Use high-end corporate styling, not template-like styling
+
+UX PRIORITIES
+
+The website must prioritize user experience:
+- extremely clear navigation
+- intuitive services structure with submenu under Services
+- strong CTAs placed naturally
+- sticky header
+- floating WhatsApp button
+- click-to-call buttons
+- clear contact routing for construction and software enquiries
+- fast scanning experience with strong headings and clear section hierarchy
+- mobile-first behavior with elegant stacking
+- readable line lengths and generous spacing
+- forms that are simple and friendly
+- visual flow that makes users keep scrolling
+
+RESPONSIVE DESIGN REQUIREMENTS
+
+The entire site must be fully responsive and optimized for:
+- large desktop screens
+- laptops
+- tablets
+- mobile phones
+
+Responsive behavior must include:
+- mobile menu / hamburger navigation
+- stacked content blocks on smaller devices
+- properly resized typography using fluid scaling
+- consistent spacing at all breakpoints
+- cards that collapse elegantly
+- image galleries that adapt smoothly
+- CTA buttons that remain thumb-friendly on mobile
+- floating contact buttons that do not block content
+- footer that reorganizes cleanly for mobile
+- forms optimized for touch interaction
+
+ANIMATION AND INTERACTION REQUIREMENTS
+
+Use tasteful, premium motion design throughout the site. Motion must improve experience, not distract from it.
+
+Include:
+- entrance animations when sections load into view
+- staggered text reveals
+- fade-up and slide-up animations
+- subtle zoom-in for hero visuals
+- hover effects on cards, buttons, menu items, project items, and service blocks
+- image transition effects inside galleries
+- smooth scroll behavior
+- parallax-like scroll motion for backgrounds or hero layers
+- mouse move effects in hero area or visual sections
+- soft tilt or depth effect on service cards and portfolio cards
+- morphing button shapes or glow transitions on hover
+- animated underlines for links
+- animated counters or stat reveals if appropriate
+- smooth dropdown submenu animations for Services
+- image reveal masks
+- subtle blur-to-sharp transitions
+- section dividers with motion accents
+- scroll-triggered timeline animations on roadmap/process sections
+- CTA highlight pulse or glow on important action buttons
+- microinteractions for form focus states
+- elegant page transition feel if multi-page behavior is simulated
+
+Use motion carefully:
+- keep it smooth and premium
+- do not make the site feel noisy
+- maintain fast performance
+- use GPU-friendly transforms where possible
+- ensure accessibility and reduced-motion compatibility
+
+VISUAL EFFECTS TO INCLUDE
+
+Use a modern mix of:
+- glassmorphism only where it makes sense
+- gradient overlays
+- layered backgrounds
+- soft shadow depth
+- image masks
+- animated border gradients
+- spotlight hover effects
+- section background variations
+- modern icon cards
+- animated CTA ribbons
+- grid overlays or subtle pattern backgrounds
+- architectural and digital visual contrast
+- rounded corners with premium card aesthetics
+- light reflection or sheen effects on premium buttons
+- modern portfolio hover overlays
+- image carousel transitions
+- morphing blobs or abstract shapes in hero/backgrounds
+- reveal-on-scroll image panels
+
+Do not overuse all effects at once. Maintain elegance, clarity, and performance.
+
+WEBSITE STRUCTURE
+
+Main Navigation:
+- Home
+- About Us
+- Services
+  - Construction Services
+  - Software Solutions
+- Portfolio
+- Contact Us
+
+Optional utility actions in header or sticky section:
+- Get a Quote
+- WhatsApp Us
+- Call Now
+
+Create a full website with the following pages and sections.
+
+==================================================
+HOME PAGE
+==================================================
+
+Page Title:
+Home | ZARMS Tec – Construction Services & Software Solutions
+
+Hero Section:
+Headline:
+Building Better Spaces. Creating Smarter Digital Solutions.
+
+Subheadline:
+ZARMS Tec brings together the strength of professional construction services and the innovation of software solutions under one trusted brand. Whether you are planning a building project or looking for digital transformation support, we provide practical, efficient, and quality-driven services tailored to your needs.
+
+Hero CTA buttons:
+- Explore Services
+- View Portfolio
+- Contact Us
+- WhatsApp Now
+
+Hero visual direction:
+Create a powerful premium hero with a split visual concept:
+one side representing modern construction, architecture, site execution, materials, or built spaces;
+the other side representing software, dashboards, digital systems, coding, or technology interfaces.
+Add subtle mouse-move parallax, layered gradients, floating shapes, and elegant motion.
+
+Welcome Section:
+Heading:
+Your Trusted Partner in Construction and Technology
+
+Content:
+At ZARMS Tec, we believe that strong results come from strong planning, skilled execution, and clear communication. Our company serves clients who need dependable construction support as well as businesses looking for practical and scalable software solutions. By combining technical knowledge with service commitment, we help clients move from idea to execution with confidence.
+
+We are focused on delivering solutions that are functional, reliable, and aligned with real project goals. From building spaces that last to digital systems that improve efficiency, our work is guided by professionalism, quality standards, and client satisfaction.
+
+Core Services Overview:
+Heading:
+What We Do
+
+Create two premium service cards with hover animations and subtle tilt:
+
+Card 1:
+Construction Services
+We provide construction-related solutions designed for quality workmanship, practical planning, and efficient execution. Our construction services are ideal for residential, commercial, renovation, and project support requirements.
+Points:
+- Building and civil works
+- Renovation and remodeling
+- Interior and finishing support
+- Site coordination and project execution
+- Custom client-focused solutions
+
+Card 2:
+Software Solutions
+We deliver software and IT services that support business growth, digital efficiency, and modern operational needs. Our team focuses on building practical systems, web solutions, and business-supporting technologies.
+Points:
+- Custom software development
+- Website and web application solutions
+- Business process digitization
+- Technical support and maintenance
+- Scalable technology services
+
+Why Choose Us Section:
+Heading:
+Why Clients Choose ZARMS Tec
+
+Include modern icon-based cards or animated highlights:
+- Dual Expertise Under One Brand
+- Commitment to Quality
+- Client-Centric Communication
+- Tailored Solutions
+- Long-Term Value
+
+Featured Projects Snapshot:
+Heading:
+Selected Works & Project Highlights
+
+Create an elegant preview of construction and software portfolio items with hover overlays and animated image transitions.
+
+Process Overview:
+Heading:
+How We Work
+
+4-step timeline:
+1. Consultation
+2. Planning
+3. Execution
+4. Delivery & Support
+
+Use scroll-triggered motion and a premium timeline or process layout.
+
+Trust / Testimonials Section:
+Heading:
+Built on Trust. Focused on Results.
+
+Use polished testimonial cards with subtle movement and premium styling.
+Use placeholder testimonials written professionally.
+
+Final CTA Section:
+Heading:
+Let’s Build Your Next Project Together
+
+Content:
+Whether you need construction expertise or software support, ZARMS Tec is ready to help you move forward with confidence. Reach out to discuss your needs, request a consultation, or get a customized quote.
+
+CTA buttons:
+- Contact Us
+- Get a Quote
+- WhatsApp Enquiry
+
+==================================================
+ABOUT US PAGE
+==================================================
+
+Page Title:
+About Us | ZARMS Tec
+
+Hero:
+Heading:
+About ZARMS Tec
+
+Subheading:
+A modern service company delivering trusted construction services and practical software solutions with a strong commitment to quality, professionalism, and client satisfaction.
+
+Section:
+Who We Are
+
+Content:
+ZARMS Tec is a professionally driven company serving clients through two key service areas: construction services and software solutions. We are committed to helping individuals, businesses, and project owners achieve their goals through dependable service, thoughtful execution, and a strong focus on quality outcomes.
+
+Our construction division supports built-environment needs with practical planning and execution, while our software solutions division helps businesses move toward efficient digital systems and modern technology-driven operations. This dual capability gives us a distinctive identity and enables us to serve a wider range of client requirements.
+
+At the core of our company is a simple belief: every project deserves attention, accountability, and a solution that truly fits the client’s needs.
+
+Section:
+Our Mission
+
+Content:
+Our mission is to deliver dependable construction and software services that create real value for our clients. We aim to combine quality, integrity, and innovation in every project, ensuring that our work supports both immediate goals and long-term success.
+
+We are committed to building trust through clear communication, responsible execution, and customer-focused solutions that reflect professionalism at every stage.
+
+Section:
+Our Vision
+
+Content:
+Our vision is to become a trusted name in both construction services and software solutions by consistently delivering work that is practical, high-quality, and future-ready. We aspire to grow as a company known for reliability, innovation, and strong service relationships.
+
+Section:
+Our Core Values
+
+Show this as modern animated cards:
+- Integrity
+- Quality
+- Reliability
+- Innovation
+- Client Focus
+
+Section:
+Our Journey
+
+Content:
+ZARMS Tec was established with the goal of providing practical, dependable, and quality-driven services across construction and technology. The company was built around the idea that clients often need partners who can solve problems with both technical understanding and execution discipline.
+
+As the company continues to grow, our focus remains on building a strong reputation through service consistency, project responsibility, and the ability to adapt to changing client needs. Our journey is driven by a desire to create lasting value in every engagement.
+
+Section:
+Our Roadmap
+
+Create a premium roadmap/timeline with scroll animation:
+- Strengthening Core Services
+- Expanding Project Reach
+- Enhancing Innovation
+- Building Long-Term Partnerships
+
+Section:
+Our Team
+
+Content:
+Our team is built around dedication, practical knowledge, and a strong commitment to getting the job done right. At ZARMS Tec, we believe every successful project depends on people who understand responsibility, execution, and service. Our team brings together the mindset needed to support clients in both construction and software projects with professionalism and care.
+
+Use refined placeholder team cards if real team images are not available.
+
+Section:
+Purpose Behind Our Work
+
+Content:
+We exist to help clients bring ideas into reality—whether that means creating physical spaces through construction or enabling business growth through software and digital support. We understand that every client wants dependable execution, clear communication, and a service partner that genuinely cares about results. That purpose drives everything we do.
+
+Closing CTA:
+Work With a Team That Values Quality and Trust
+
+==================================================
+SERVICES PAGE
+==================================================
+
+Page Title:
+Services | ZARMS Tec
+
+Hero:
+Heading:
+Our Services
+
+Content:
+ZARMS Tec offers a balanced service portfolio that addresses both infrastructure and digital business needs. Our expertise is organized into two major service categories: Construction Services and Software Solutions. Each category is designed to provide practical, quality-driven support with a focus on client goals and long-term value.
+
+Section:
+Two Strong Service Verticals. One Trusted Company.
+
+Card 1:
+Construction Services
+We provide dependable construction support for clients seeking quality execution, planning, renovation, structural support, and project coordination.
+
+Card 2:
+Software Solutions
+We deliver software and technology services that help businesses improve efficiency, customer reach, and digital operations.
+
+Section:
+What You Can Expect From Our Services
+- Customized solutions based on project needs
+- Practical guidance and clear communication
+- Focus on quality and timely execution
+- Professional handling from start to finish
+- Support that balances cost, value, and performance
+
+Section:
+Who We Serve
+
+Construction side:
+- Homeowners
+- Builders
+- Property owners
+- Small businesses
+- Commercial facility clients
+
+Software side:
+- Startups
+- Small and medium businesses
+- Service companies
+- Retail businesses
+- Businesses seeking digital transformation
+
+Closing CTA:
+Need the Right Service for Your Requirement?
+
+==================================================
+CONSTRUCTION SERVICES SUBPAGE
+==================================================
+
+Page Title:
+Construction Services | ZARMS Tec
+
+Hero:
+Heading:
+Construction Services That Prioritize Quality, Practicality, and Trust
+
+Content:
+ZARMS Tec offers construction services designed to help clients turn plans into dependable physical spaces. We focus on practical execution, responsible coordination, and service quality that aligns with project goals. Whether the need is new work, renovation, finishing support, or project-related assistance, we approach every requirement with professionalism and care.
+
+CTA:
+- Request Construction Consultation
+- Call Construction Team
+
+Section:
+What Our Construction Division Offers
+
+Section:
+Our Construction Service Areas
+Create visually rich service blocks for:
+- Building Construction Support
+- Renovation and Remodeling
+- Interior and Finishing Works
+- Civil and Site Work Assistance
+- Project Coordination
+
+Section:
+How We Approach Construction Projects
+
+Content:
+Every construction requirement is different, which is why we begin by understanding project objectives, site conditions, budget considerations, and client expectations. Our role is to bring together planning, coordination, and service execution in a way that supports clear progress and dependable outcomes.
+
+We value communication throughout the process and aim to maintain alignment between project scope and practical delivery. This approach helps us reduce confusion, improve efficiency, and ensure that the completed work reflects client requirements.
+
+Section:
+Why Choose ZARMS Tec for Construction Services
+- Client-focused project understanding
+- Emphasis on quality and workmanship
+- Practical and structured execution
+- Transparent communication
+- Focus on usable and lasting outcomes
+
+Section:
+Construction Gallery
+Create a beautiful responsive masonry or grid gallery with transition effects.
+Gallery categories:
+- Ongoing Projects
+- Completed Projects
+- Renovation Works
+- Interiors & Finishing
+- Site Progress Images
+
+Section:
+Selected Construction Projects
+Use elegant project cards with image hover, quick facts, and expandable details.
+Placeholder project examples:
+- Residential Renovation Project
+- Commercial Interior Improvement
+- Site Execution Support Project
+
+Section:
+FAQ – Construction Services
+Include a premium accordion UI.
+
+Closing CTA:
+Planning a Construction Project? Let’s Talk.
+
+==================================================
+SOFTWARE SOLUTIONS SUBPAGE
+==================================================
+
+Page Title:
+Software Solutions | ZARMS Tec
+
+Hero:
+Heading:
+Software Solutions Designed for Business Growth and Digital Efficiency
+
+Content:
+ZARMS Tec provides software and IT solutions that help businesses improve operations, strengthen digital presence, and adopt practical technology systems. We focus on understanding business needs and creating solutions that are useful, scalable, and aligned with real outcomes.
+
+Whether the requirement involves a website, custom software, digital process improvement, or technical support, our goal is to deliver technology that works effectively and adds measurable value.
+
+CTA:
+- Request IT Consultation
+- Contact Software Team
+
+Section:
+What Our Software Division Offers
+
+Section:
+Our Software Service Areas
+Create premium animated service cards for:
+- Website Design and Development
+- Custom Software Development
+- Web Application Development
+- Business Process Digitization
+- Technical Support and Maintenance
+- UI / UX Improvement Support
+
+Section:
+Why Choose ZARMS Tec for Software Solutions
+- Practical and business-aligned technology approach
+- Focus on usability and performance
+- Modern web and digital solution capability
+- Clear communication and client collaboration
+- Scalable support for future growth
+
+Section:
+Our IT Project Process
+Create a refined process flow:
+- Discovery
+- Planning
+- Design & Development
+- Testing & Deployment
+- Support & Improvement
+
+Section:
+Software Solutions Gallery
+Create a modern interface showcase gallery with device frames, hover previews, and image transition effects.
+Gallery categories:
+- Website Screens
+- Admin Dashboards
+- Application Interfaces
+- UI / UX Mockups
+- Business Software Screens
+
+Section:
+Selected Digital Projects
+Use polished case-study style cards.
+Placeholder project examples:
+- Corporate Website Solution
+- Business Process Management Tool
+- Web-Based Service Platform
+
+Section:
+FAQ – Software Solutions
+Include accordion design consistent with construction page.
+
+Closing CTA:
+Need a Smart Digital Solution for Your Business?
+
+==================================================
+PORTFOLIO PAGE
+==================================================
+
+Page Title:
+Portfolio | ZARMS Tec
+
+Hero:
+Heading:
+Our Portfolio
+
+Content:
+Explore selected works from ZARMS Tec across our construction and software service divisions. Our portfolio reflects our commitment to practical results, quality execution, and client-focused delivery.
+
+Section:
+Projects That Reflect Our Work Ethic
+
+Section:
+Browse by Category
+Create animated filter tabs:
+- All Projects
+- Construction Projects
+- Renovation / Interiors
+- Websites
+- Software Solutions
+- Ongoing Projects
+- Completed Projects
+
+Section:
+Construction Project Highlights
+Each project card should include:
+- Project Name
+- Category
+- Short Description
+- Client Type
+- Status
+- One-line result summary
+
+Section:
+Software Project Highlights
+Each project card should include:
+- Project Name
+- Industry
+- Solution Type
+- Key Features
+- Technology Stack if needed
+- Result summary
+
+Section:
+Project Stories & Case Studies
+Use large visual case-study blocks with alternating layouts and reveal-on-scroll animation.
+Include:
+- client challenge
+- our approach
+- solution delivered
+- scope/features
+- outcome/value
+
+Closing CTA:
+Want to Discuss a Similar Project?
+
+==================================================
+CONTACT PAGE
+==================================================
+
+Page Title:
+Contact Us | ZARMS Tec
+
+Hero:
+Heading:
+Get in Touch With ZARMS Tec
+
+Content:
+We are here to help you with construction requirements, software solutions, project discussions, and service enquiries. Reach out to the right team using the contact details below or send us your requirement through the enquiry form.
+
+Section:
+Contact Information
+
+Display clearly and beautifully:
+ZARMS Tec
+30/1, Medawalkkam 2nd Street, Kilpauk, Chennai-10
+
+Construction Services Contact
+Phone: 9840344369
+Email: narbhavi555@gmail.com
+
+Software Solutions Contact
+Phone: 9994123797
+Email: rajesh.arms916@gmail.com
+
+WhatsApp
+9994123797
+
+Section:
+Send Us an Enquiry
+Include a premium responsive contact form with strong UX.
+
+Form fields:
+- Full Name
+- Phone Number
+- Email Address
+- Service Type (Construction / Software Solutions)
+- Subject
+- Project Requirement
+- Preferred Contact Method
+- City / Location
+- Budget Range (optional)
+- Timeline (optional)
+- Attachment Upload (optional)
+
+Form button:
+- Submit Enquiry
+or
+- Request a Quote
+
+Success message:
+Thank you for contacting ZARMS Tec. Our team will get in touch with you shortly.
+
+Section:
+Quick Contact Options
+Show as interactive smart action cards/buttons:
+- Call Construction Services
+- Call Software Solutions
+- Email Construction Team
+- Email Software Team
+- WhatsApp Quick Enquiry
+- Get Directions
+
+Section:
+Business Hours
+Use placeholder:
+- Monday to Saturday: 9:00 AM – 6:00 PM
+- Sunday: By Appointment / Closed
+
+Section:
+Map Section
+Embed a modern styled location section for the registered address.
+
+Section:
+FAQ / Enquiry Help
+Include clean accordion answers for:
+- Which number should I call for construction services?
+- Which number should I call for software solutions?
+- Can I contact you through WhatsApp?
+- Can I request a quote online?
+
+Closing CTA:
+Let’s Start With Your Requirement
+
+==================================================
+HEADER, MENU, AND FOOTER
+==================================================
+
+HEADER
+Create a sticky, premium header with:
+- company logo / text logo
+- main navigation
+- Services dropdown submenu with smooth animation
+- topbar with key contact info
+- CTA buttons: Get a Quote, WhatsApp Us
+- responsive mobile drawer menu
+- active state for current page
+- animated hover states for nav links
+
+Topbar content:
+Welcome to ZARMS Tec – Construction & Software Solutions
+Construction Enquiry: 9840344369
+Software Enquiry: 9994123797
+WhatsApp: 9994123797
+
+FOOTER
+Create a large, modern multi-column footer with:
+Brand text:
+ZARMS Tec
+Building dependable spaces and delivering practical software solutions for modern client needs.
+
+Quick links:
+- Home
+- About Us
+- Services
+- Construction Services
+- Software Solutions
+- Portfolio
+- Contact Us
+
+Contact details:
+Address: 30/1, Medawalkkam 2nd Street, Kilpauk, Chennai-10
+Construction: 9840344369 | narbhavi555@gmail.com
+Software: 9994123797 | rajesh.arms916@gmail.com
+WhatsApp: 9994123797
+
+Footer CTA:
+- Get a Quote
+- WhatsApp Enquiry
+
+Social media section:
+Create clickable social icons for:
+- Facebook
+- Instagram
+- LinkedIn
+- YouTube
+
+Use placeholder links but structure them properly for easy replacement.
+
+Bottom line:
+© 2026 ZARMS Tec. All Rights Reserved.
+
+SMART CONTACT FEATURES
+
+The website must include:
+- floating WhatsApp button
+- sticky quick enquiry button on mobile
+- click-to-call buttons
+- email contact links
+- quote request CTA in key places
+- easy routing between construction and software enquiry paths
+- optional quick contact side panel or bottom sticky action bar on mobile
+
+PORTFOLIO AND GALLERY EXPERIENCE
+
+Design project and gallery sections with high-end UX:
+- animated category filters
+- hover overlays
+- subtle zoom and pan effects
+- lightbox or modal preview
+- smooth image transitions
+- elegant captions
+- transition from grayscale to color or dark overlay to clear image on hover
+- case-study style layouts with strong visual storytelling
+
+ACCESSIBILITY AND QUALITY
+
+Ensure:
+- high contrast and readable typography
+- keyboard-friendly navigation
+- clear form labels
+- alt text support
+- reduced motion support
+- fast-loading structure
+- clean semantic structure
+- optimized image handling
+- modern accessibility best practices
+
+CONTENT WRITING STYLE
+
+The copy should be:
+- polished
+- professional
+- modern
+- trust-building
+- clear
+- not too technical
+- not too generic
+- suitable for a real business audience
+
+Avoid overly exaggerated claims.
+Make the company sound capable, reliable, and professional.
+
+SEO REQUIREMENTS
+
+Create SEO-friendly structure for each page:
+- clear H1
+- meaningful H2/H3 hierarchy
+- meta titles
+- meta descriptions
+- semantic sectioning
+- optimized page titles
+- service-focused wording
+- location-aware mention of Chennai where appropriate
+- good internal linking between service pages and contact page
+
+TECHNICAL / BUILD REQUIREMENTS
+
+Create the site as a modern professional website with:
+- polished UI components
+- reusable section patterns
+- smooth animations
+- responsive layout system
+- premium card design
+- lightweight performance-conscious interactions
+- visually strong hero sections
+- consistent button system
+- elegant form components
+- cohesive spacing and rhythm
+- modern dropdown and mobile navigation
+- subtle loading polish
+- refined hover behavior
+- strong CTA placement
+
+DESIGN INTENT
+
+This website should feel like a premium custom website, not a generic template.
+It must visually communicate:
+- trust
+- precision
+- modern professionalism
+- service clarity
+- business credibility
+- construction strength
+- digital intelligence
+
+FINAL OUTPUT EXPECTATION
+
+Generate the complete website experience for ZARMS Tec with:
+- all pages
+- all sections
+- real business content
+- premium UI
+- modern responsive design
+- advanced motion and interactions
+- strong user experience focus
+- clean structure for future expansion
+- placeholders only where real project images, team details, and social links are not yet available
+
+Do not leave the site plain or generic.
+Make it visually memorable, smooth, elegant, and conversion-oriented.
